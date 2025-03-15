@@ -13,7 +13,7 @@
   Process text from standard input (stdin) when no file is provided,
   or from one or more files specified on the command line.
 
-  - Counts and displays:
+  Counts and displays:
   - Lines
   - Words
   - Characters
