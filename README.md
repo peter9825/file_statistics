@@ -6,10 +6,12 @@
 
 
 
+
 # Features
 
 - Multiple Input Sources:
-  Process text from standard input (stdin) when no file is provided, or from one or more files specified on the command line.
+  Process text from standard input (stdin) when no file is provided,
+  or from one or more files specified on the command line.
 
 - Comprehensive Statistics
   Counts and displays:
@@ -21,7 +23,10 @@
   - Special Characters
 
  - User-Friendly Output:
-   Provides clear output with headers and formatted statistics, making the text analysis results easy to understand.
+   Provides clear output with headers and formatted statistics,
+   making the text analysis results easy to understand.
+
+
 
 
 # Installation
