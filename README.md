@@ -31,7 +31,6 @@
 # Installation
 
    - To compile the project, make sure you have GCC installed and simply run: make
-   - To clean up the object files, run: make clean
    - To analyze a file (e.g., sample.txt), run: ./cntwlc1 sample.txt
    - If you run the executable without any arguments, it will default to reading from standard input: ./cntwlc1
      After running the above command, you will be prompted to enter text.
